@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="ringht"alt="coding" width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5KGxExsivEbBybLvsJnWydwRGVVzzF01Pzg&usqp=CAU">
+<img align="ringht"alt="coding" width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5KGxExsivEbBybLvsJnWydwRGVVzzF01Pzg&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinsinghrs6789&label=Profile%20views&color=0e75b6&style=flat" alt="robinsinghrs6789" /> </p>
 
