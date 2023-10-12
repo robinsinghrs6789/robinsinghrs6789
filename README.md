@@ -1,3 +1,4 @@
+![logo](https://github.com/robinsinghrs6789/robinsinghrs6789/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Robin Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
